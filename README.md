@@ -56,6 +56,7 @@ The program generates two output files after performing the operations for 5 ite
 ```
 
 ## 🧰 Project Structure
+
 ```
 📂 orientation-week4-cuda/
 │── 📂 include/  

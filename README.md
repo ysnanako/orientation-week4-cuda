@@ -63,11 +63,11 @@ The program generates two output files after performing the operations for 5 ite
 │── 📂 source/  
 │   ├── cuda_kernel.cu  
 │   ├── main.cpp  
-│── 📄 A.txt # (ignored in Git due to large size, automatically generated)  
-│── 📄 B.txt # (ignored in Git due to large size, automatically generated)  
-│── 📄 A_cuda.txt # (ignored in Git due to large size, automatically generated)  
-│── 📄 B_cuda.txt # (ignored in Git due to large size, automatically generated)  
-│── 📄 CUDA_Runtime.txt # (ignored in Git, automatically generated)  
+│── 📄 A.txt # (ignored)  
+│── 📄 B.txt # (ignored)  
+│── 📄 A_cuda.txt # (ignored)  
+│── 📄 B_cuda.txt # (ignored)  
+│── 📄 CUDA_Runtime.txt # (ignored)  
 │── 🔧 Makefile  
 │── 📜 README.md # This file
 │── 📜 .gitignore

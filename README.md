@@ -1,4 +1,4 @@
-# orientation-week4-cuda
+# summer-training-week4-cuda
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week4-cuda)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week4-cuda)
